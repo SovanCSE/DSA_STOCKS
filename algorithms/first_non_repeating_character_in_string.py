@@ -26,7 +26,7 @@ if find_duplicate:
     print('There are no unique character O(n^2): _')
 
 
-# SCRIPT LOGIC WITH O(N) TIME COMPLEXITY - orderedDict get and put operator time complexity is 1
+# OPTION 1: SCRIPT LOGIC WITH O(N) TIME COMPLEXITY - with find() and rfind()  methods
 has_duplicate = True
 for chr in str:
     if str.find(chr) == str.rfind(chr):
@@ -36,3 +36,20 @@ for chr in str:
 if has_duplicate:
     print('There are no unique character O(n): _')
 
+# OPTION 2: SCRIPT LOGIC WITH O(N) TIME COMPLEXITY - orderedDict get and put operator time complexity is 1
+
+from collections import OrderedDict
+
+custom_dict = OrderedDict()
+for chr in str:
+    if chr in custom_dict:
+        custom_dict[chr] += 1
+    else:
+        custom_dict[chr] = 1
+
+for key, val in custom_dict.items():
+    if val == 1:
+        print('First occurrence character O(n): ', key)
+        break
+else:
+    print('There are no unique character O(n): _')
