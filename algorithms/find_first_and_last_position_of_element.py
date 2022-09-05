@@ -1,6 +1,10 @@
 #################################################################################
+## Category: Dynamic Programming
+## Title: Find first and last index position of the target element in a sorted array using time complexity O(log N)
+## Short Notes :
+##   Using the binary searcch algorithm ->  target_item <= list_items[midpoint] to find start index as midpoint
+##     and target_item >= list_items[midpoint] to find end index as midpoint.
 ## Youtube Link: https://www.youtube.com/watch?v=bU-q1OJ0KWw&ab_channel=NickWhite
-## Find the first and last position of element in a sorted array with time complexity O(log N)
 ## Example: input: list_items = [5, 7, 7, 8, 8, 10] target_item = 8 Output: [3,4]
 ## Example: input: list_items = [5, 7, 7, 8, 8, 10] target_item = 3 Output: [-1, -1]
 ##################################################################################

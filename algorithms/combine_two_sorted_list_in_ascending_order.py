@@ -1,6 +1,12 @@
 #################################################################################
-## Youtube Link: Combine two sorted list and display in the list in ascending order
-## Example: input: list1 = [1, 5, 6, 9, 11] and list2 = [3, 4, 7, 8, 10] Output: [1, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+##
+## Category: Dynamic Programming
+## Title: Combine two sorted list and display in the list in ascending order
+## Short notes:
+##    O(N^2) -> Concatenate both list and use bubble sort
+##    O(N) -> Using two starting pointers for each of the array and iterating until any of the pointer passes the max length
+## Youtube Link:
+## Example: Input: list1 = [1, 5, 6, 9, 11] and list2 = [3, 4, 7, 8, 10] Output: [1, 3, 4, 5, 6, 7, 8, 9, 10, 11]
 ##
 ##################################################################################
 

@@ -1,10 +1,14 @@
 #################################################################################
-## Youtube Video Link: https://www.youtube.com/watch?v=IdZlsG6P17w&t=577s&ab_channel=NickWhite
-## Rotate matrix by 90 degree without using any another matrix
+##
+## Category: Matrix
+## Title: Rotate matrix by 90 degree without using any another matrix
+## Short Notes -
 ## Step1: Transpose Matrix - it means that taking each columns and convert them to the rows
 ##   swap(array[i][j], array[j][i])
 ## Step2: Horizontal Flip
 ## swap(array[i][j], array[i][total_columns-1-j])
+## Youtube Video Link: https://www.youtube.com/watch?v=IdZlsG6P17w&t=577s&ab_channel=NickWhite
+## EXAMPLE -
 ## INPUT Matrix:
 ## [ [1, 2, 3],
 ##   [4, 5, 6],

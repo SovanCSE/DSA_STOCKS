@@ -1,5 +1,10 @@
 #################################################################################
-## Youtube Link: https://www.youtube.com/watch?v=XSdr_O-XVRQ&ab_channel=NickWhite
+## Category: Dynamic Programming
+## Title: Find first duplicate element in list of elements
+## Short notes -
+##   O(N^2) - Use two loop  to find second duplicate position one ny one the elements.
+##   O(N) - Use hash set to store and compare duplicate to find first duplicate element
+# Youtube Link: https://www.youtube.com/watch?v=XSdr_O-XVRQ&ab_channel=NickWhite
 ## Example: Input: [1, 2, 1, 2, 3, 3] Ouput: 1
 ## Example: Input: [2, 1, 3, 5, 3, 2] Output: 3
 ## Example: [1, 2, 3, 4, 5] Output: -1

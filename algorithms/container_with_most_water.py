@@ -1,5 +1,11 @@
 #################################################################################
-## Problem statement: Find the maximum rectangular area(width * height) to contain the most of the water without overflow
+##
+## Category: Dynamic Programming
+## Title: Find the maximum rectangular area(width * height) to contain the most of the water without overflow
+## Short Notes:
+##  O(N^2) - Using two loop to iterate between any of two points and find out the max area among of them
+##  O(N) ->  Using left and right pointer  to find max area values if right pointer value more then moving the left pointer forward otherwise right pointer.
+## Youtube Link: https://www.youtube.com/watch?v=UuiTKBwPgAo&ab_channel=NeetCode
 ## Example: input: [1, 8, 6, 2, 5, 4, 8, 3, 7] Output: 49 (7*7) where starting index is 1 and end index is 8
 ##
 ##################################################################################

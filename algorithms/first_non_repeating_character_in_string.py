@@ -1,4 +1,9 @@
 #################################################################################
+## Category: String
+## Title: Find first non-repeating character in string
+## Short Notes -
+##   O(N^2) - Using two loop one to itertate one by one character and second to find if not present end rst of the elements.
+##   O(N) - Using orderdict or find() vs rfind() function to find first non repeating character
 ## YouTube link: https://www.youtube.com/watch?v=5co5Gvp_-S0&ab_channel=NickWhite
 ## Input type - String
 ## Input string contains only lower case english letters so cann't be "" or "B23D"

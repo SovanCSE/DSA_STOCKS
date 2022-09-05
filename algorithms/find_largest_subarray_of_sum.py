@@ -1,6 +1,9 @@
 #################################################################################
-## Youtube Link: https://www.youtube.com/watch?v=TfQPoaRDeMQ&ab_channel=AdityaVerma
-## FIND LARGEST SUBARRAY OF sum_values K
+## Category: Dynamic Programming
+## Title: Find largest subarray and sum of the elements equal to target element k.
+## Short Notes -
+##  O(N) -   Using starting and end pointer 0 and adding one by one by increasing starting point to get max lengh of array
+# Youtube Link: https://www.youtube.com/watch?v=TfQPoaRDeMQ&ab_channel=AdityaVerma
 ## Example: LIST: [1, -2, -2, 3, 1, 7, 5] sum_values = 1 index_range = [1,5]
 ## Example: LIST: [1, 2, 3, 7, 5] sum_values = 12 index_range = [2,4]
 ##################################################################################
