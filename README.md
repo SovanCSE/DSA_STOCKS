@@ -13,3 +13,6 @@ Data structure and algorithm problem solving coding interview questions with pyt
   3. Find first duplicate in array of elements
   4. Find first and last position of an element in array
   5. Find two sorted list in ascending order
+  6. Return indices of two sum up to the specific target value
+  7. Find the maximum rectangular area(width * height) to contain the most of the water without overflow
+  
