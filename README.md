@@ -1,6 +1,9 @@
 # DSA_STOCKS - WORK IN PROGRESS
 Data structure and algorithm problem solving coding interview questions with python which frequently asked in FAANG companies
 
+you guys can follow the link of curated list of top 75 LeetCode questions to save your time -
+https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU 
+
 ## DATA STRUCTURE PROBLEM SOLVING
  1. Reserve linked list with iterative way (data_structures/reverse_linkedlist_iteratively.py)
  2. Reserve linked list with recursive way  (data_structures/reverse_linkedlist_recursively.py)
