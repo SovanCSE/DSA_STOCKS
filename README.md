@@ -20,4 +20,6 @@ https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Q
   7. Find the maximum rectangular area(width * height) to contain the most of the water without overflow (algorithms/container_with_most_water.py)
   8. Display Fibonacci series and sum it up. (algorithms/fibonacci_series.py)
   9. Binary search target element in sorted 2D matrix (algorithms/search_in_sorted_2D_matrix.py)
+  10. Sort array of elements inplace using quicksort partition logic. (algorithms/sort_array_of_elements_in_place.py)
+  11. 
   
