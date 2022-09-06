@@ -18,4 +18,6 @@ https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Q
   5. Combine two sorted list in ascending order (algorithms/combine_two_sorted_list_in_ascending_order.py)
   6. Return indices of two sum up to the specific target value (algorithms/return_indices_of_two_sum.py)
   7. Find the maximum rectangular area(width * height) to contain the most of the water without overflow (algorithms/container_with_most_water.py)
+  8. Display Fibonacci series and sum it up. (algorithms/fibonacci_series.py)
+  9. Binary search target element in sorted 2D matrix (algorithms/search_in_sorted_2D_matrix.py)
   
