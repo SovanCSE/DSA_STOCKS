@@ -23,4 +23,4 @@ https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Q
   9. Binary search target element in sorted 2D matrix (algorithms/search_in_sorted_2D_matrix.py)
   10. Sort array of elements inplace using quicksort partition logic. (algorithms/sort_array_of_elements_in_place.py)
   11. Find contiguous subarray with maximum sum (algorithms/contiguous_subarray_maximum_sum.py)
-  
+  12. Find longest substring without any repeating characters (algorithms/longest_substring_without_repeats.py)
