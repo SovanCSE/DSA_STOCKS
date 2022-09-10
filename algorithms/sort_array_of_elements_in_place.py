@@ -1,7 +1,7 @@
 #################################################################################
 ## Category: Dynamic Programming
 ## Tile: Given num of elements and sort in-place in ascending order
-## Short Notes: Using Quick sort partition logic here
+## Short Notes: Using Quick sort partition logic here (Need three pointer here)
 ##   O(N) - Using three pointers here like left to store zeros, right to store twos and third pointer to check and  swap values left and right.
 ##      - Remerber third pointer not to increment while get value 2 and swapping with right pointer position
 ## Youtube Link: https://www.youtube.com/watch?v=4xbWSRZHqac&list=PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_&index=6&ab_channel=NeetCode
