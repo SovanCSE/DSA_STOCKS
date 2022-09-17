@@ -10,6 +10,7 @@ https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Q
  3. Rotate image/matrix by 90 degree (data_structures/rotate_image_by_90_degree.py)
  4. singly listedlist different type of add operations (add first/last/middle after specific node/position) (data_structures/singly_linkedlist _with_diff_inserts.py)
  5. Implement min stack that supports push, pop, top and retrieve minimum element in constant time (data_structures/min_stack_implementation.py)
+ 6. Design a data structure which follows the constraints of the least recent used cache (data_structures/LRU_cahche.py)
 
 ## ALGORITHM/DYNAMIC PROGRAM PROBLEM SOLVING
   1. Find first non repeating character in string (algorithms/first_non_repeating_character_in_string.py)
