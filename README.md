@@ -27,4 +27,5 @@ https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Q
   12. Find long substring without any repeating characters (algorithms/longest_substring_without_repeats.py)
   13. Find indices of numbers which sum up to specific target number in sorted list (algorithms/return_indices_of_two_sum_stored_array.py)
   14. Find all combination of three elements which sum equal to zero (algorithms/return_combination_of_three_sums.py) 
-  15. FInd long palindromic substring in a string (algorithms/longest_palindromic_substring.py)
+  15. Find long palindromic substring in a string (algorithms/longest_palindromic_substring.py)
+  16. Check if number is happy number (algorithms/happy_number.py)
