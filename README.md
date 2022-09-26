@@ -8,7 +8,7 @@ https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Q
  1. Reserve linked list with iterative way (data_structures/reverse_linkedlist_iteratively.py)
  2. Reserve linked list with recursive way  (data_structures/reverse_linkedlist_recursively.py)
  3. Rotate image/matrix by 90 degree (data_structures/rotate_image_by_90_degree.py)
- 4. singly listedlist different type of add operations (add first/last/middle after specific node/position) (data_structures/singly_linkedlist _with_diff_inserts.py)
+ 4. singly linkedlist different type of add operations (add first/last/middle after specific node/position) (data_structures/singly_linkedlist _with_diff_inserts.py)
  5. Implement min stack that supports push, pop, top and retrieve minimum element in constant time (data_structures/min_stack_implementation.py)
  6. Design a data structure which follows the constraints of the least recent used cache (data_structures/LRU_cahche.py)
 
@@ -24,6 +24,7 @@ https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Q
   9. Binary search target element in sorted 2D matrix (algorithms/search_in_sorted_2D_matrix.py)
   10. Sort array of elements inplace using quicksort partition logic. (algorithms/sort_array_of_elements_in_place.py)
   11. Find contiguous subarray with maximum sum (algorithms/contiguous_subarray_maximum_sum.py)
-  12. Find longest substring without any repeating characters (algorithms/longest_substring_without_repeats.py)
+  12. Find long substring without any repeating characters (algorithms/longest_substring_without_repeats.py)
   13. Find indices of numbers which sum up to specific target number in sorted list (algorithms/return_indices_of_two_sum_stored_array.py)
   14. Find all combination of three elements which sum equal to zero (algorithms/return_combination_of_three_sums.py) 
+  15. FInd long palindromic substring in a string (algorithms/longest_palindromic_substring.py)
