@@ -29,3 +29,6 @@ https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Q
   14. Find all combination of three elements which sum equal to zero (algorithms/return_combination_of_three_sums.py) 
   15. Find long palindromic substring in a string (algorithms/longest_palindromic_substring.py)
   16. Check if number is happy number (algorithms/happy_number.py)
+  17. Implement binary search dynamic programing  (algorithms/binary_search.py)
+  18. Implement linear search dynamic programming (algorithms/linear_search.py)
+
