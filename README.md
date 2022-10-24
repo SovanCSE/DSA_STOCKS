@@ -31,4 +31,4 @@ https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Q
   16. Check if number is happy number (algorithms/happy_number.py)
   17. Implement binary search dynamic programing  (algorithms/binary_search.py)
   18. Implement linear search dynamic programming (algorithms/linear_search.py)
-
+  19. sort elements in ascending order using quicksort algorithm (algorithms/quicksort.py)
