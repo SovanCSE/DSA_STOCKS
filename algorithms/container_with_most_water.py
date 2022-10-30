@@ -29,7 +29,7 @@ max_area = 0
 while left_pointer < right_pointer:
     rec_area = (right_pointer - left_pointer) * min(input_array[left_pointer], input_array[right_pointer])
     res = max(rec_area, res)
-    if input_array[right_pointer] > input_array[left_pointer] :
+    if input_array[right_pointer] > input_array[left_pointer]:
         left_pointer += 1
     else:
         right_pointer -= 1

@@ -9,18 +9,20 @@
 ## Explanation: [4, -1, 2, 1] has the largest sum 6
 ##################################################################################
 
-input_nums = [-2, 1, -3, 4, -1, 2, 1, -5, 4]
+input_nums = [-2, 1, -3, 4, -1, 2, 1, -5, 4, -3, -2, -6, -7]
 max_sum = input_nums[0] #list should contains at least one numner
 current_sum = 0
 starting_index = 0
+start_index = 0
 ending_index = len(input_nums) - 1
 
 for indx, num in enumerate(input_nums):
     if current_sum < 0:
         current_sum = 0
-        starting_index = indx
+        start_index = indx
     current_sum += num
     if current_sum > max_sum:
         max_sum = current_sum
+        starting_index = start_index
         ending_index = indx
 print(f'maximum sum = {max_sum} and index range [{starting_index}, {ending_index}]')

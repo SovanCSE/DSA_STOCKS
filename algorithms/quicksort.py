@@ -6,6 +6,7 @@
 ##  O(n long n) ->(Best Case) -> Considering first element as pivot and placing it to right position according sort order,
 ##                   follow the same for other partition recursively to get the whole list as sorted
 ##  O(n^2) -> (Worse Case)
+## Space complexity --> O(n)
 ## Youtube Link: https://www.youtube.com/watch?v=UA_Rmjfj4bw&ab_channel=AnujBhaiya
 ## Example: Input: [4, 6, 2, 5, 7, 9, 1, 3] Output: [1, 2, 3, 4, 5, 6, 7, 9]
 ############################################################################################
