@@ -13,8 +13,8 @@ https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Q
  6. Design a data structure which follows the constraints of the least recent used cache (data_structures/LRU_cahche.py)
 
 ## STRING MANIPULATION PROGRAM PROBLEM SOLVING
-  1. Leetcode - 5 - Longest palindrome substring in python(algorithms/find_longest_palindrome_substring.py)
-  2. Leetcode - 409 - Longest palindrome length in python(algorithms/longest_palindrome_string_length.py)
+  1. Leetcode - 5 - Longest palindrome substring in python(algorithms/find_longest_palindromic_substring.py)
+  2. Leetcode - 409 - Longest palindrome length in python(algorithms/find_longest_palindromic_string_length.py)
 
 ## ALGORITHM/DYNAMIC PROGRAM PROBLEM SOLVING
   1. Find first non repeating character in string (algorithms/first_non_repeating_character_in_string.py)
