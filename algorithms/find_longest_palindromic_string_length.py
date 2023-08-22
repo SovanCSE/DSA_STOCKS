@@ -19,6 +19,9 @@ def longest_palindrome_length(input_str: str) -> str:
     max_palindrome_length = 0
     odd_char_count = 0
     
+    if len(letters) == 1:
+        return letters[input_str[0]]
+        
     for char_count in letters.values():
         if char_count > 1:
             if char_count%2 == 0:
