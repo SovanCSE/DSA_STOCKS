@@ -12,6 +12,9 @@ https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Q
  5. Implement min stack that supports push, pop, top and retrieve minimum element in constant time (data_structures/min_stack_implementation.py)
  6. Design a data structure which follows the constraints of the least recent used cache (data_structures/LRU_cahche.py)
 
+## STRING MANIPULATION PROGRAM PROBLEM SOLVING
+  1. Leetcode - 5 - Longest palindrome substring in python(algorithms/longest_palindorme_substring.py)
+     
 ## ALGORITHM/DYNAMIC PROGRAM PROBLEM SOLVING
   1. Find first non repeating character in string (algorithms/first_non_repeating_character_in_string.py)
   2. Find largest subarray of sum for a specific value(k) (algorithms/find_largest_subarray_of_sum.py)
