@@ -15,7 +15,7 @@ https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Q
 ## STRING MANIPULATION PROGRAM PROBLEM SOLVING
   1. Leetcode - 5 - Longest palindrome substring in python(algorithms/find_longest_palindromic_substring.py)
   2. Leetcode - 409 - Longest palindrome length in python(algorithms/find_longest_palindromic_string_length.py)
-  3. Leetcode - 387 - First non repeating character in string (algorithms/first_non_repeating_character_in_string.py)
+  3. Leetcode - 534 - First non repeating character in string (algorithms/first_non_repeating_character_in_string.py)
 
 ## ALGORITHM/DYNAMIC PROGRAM PROBLEM SOLVING
   1. Find largest subarray of sum for a specific value(k) (algorithms/find_largest_subarray_of_sum.py)
