@@ -1,13 +1,15 @@
+##Short Notes ->
 ## Queue based approach for first non-repeating character in a stream
 ## Given a stream of characters and we have to find the first non-repeating character each time a character is inserted in the stream.
-## Pseudocode steps -
+
+## Pseudocode steps ->
 ## 1. Create a count array of size 26(assuming only lower case characters are present) and initialize it with zero.
-## 2. Create a queue with char data type
+## 2. Create a list to utilize as queue in python
 ## 3. Store each character in queue and increase its frequency in the hash array
 ## 4. For every character of the queue, we check front of the queue
 ## 5. If frequency of character at front of the queue is one then that will be first non-repeating character.
-## 6. If frequency is more than 1 then we pop that element
-## 7. If queue become empty then there is no non-repecting character, we will return -1
+## 6. If frequency is more than 1 then we pop that element from front in queue.
+## 7. If queue become empty then there is no non-repecting character, it will print -1
 
 ###########################################################################################
 ##
