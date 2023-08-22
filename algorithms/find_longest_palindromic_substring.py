@@ -3,7 +3,7 @@
 ## Category: Dynamic String Programming
 ## Title: Leetcode - 5 - Longest palindrome substring in python
 ## Short notes:
-## Time complexity: O(n^2)
+## Time complexity: O(n^2) - Need to check left and right pointer for each of the character if find any palindromic substring
 ## Youtube Link: https://www.youtube.com/watch?v=XYQecbcd6_c&t=5s
 ## Example1: Input: ababd || Output: aba 
 ## Example2: Input: dccb  || Output: cc
