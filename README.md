@@ -17,7 +17,8 @@ https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Q
   2. Leetcode-409 - Longest palindrome length in python(algorithms/find_longest_palindromic_string_length.py)
   3. Leetcode-534 - First non repeating character in string(algorithms/first_non_repeating_character_in_string.py)
   4. Leetcode-387 - First non-repeating character in stream(algorithms/first_non_repeating_character_in_stream.py)
-
+  5. Lettcode-205 - Isomorphic string in python(algorithms/check_isomorohic_strings.py)
+     
 ## ALGORITHM/DYNAMIC PROGRAM PROBLEM SOLVING
   1. Find largest subarray of sum for a specific value(k) (algorithms/find_largest_subarray_of_sum.py)
   2. Find first duplicate in array of elements (algorithms/find_first_duplicate_in_array.py)
