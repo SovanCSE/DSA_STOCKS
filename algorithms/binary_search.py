@@ -10,18 +10,18 @@
 ############################################################################################
 
 
-items = [7, 9, 11, 23]
-find_item = 17
-left_pointer = 0
-right_pointer = len(items)
-while left_pointer <= right_pointer:
-    mid_point = (left_pointer+right_pointer)//2
-    if items[mid_point] == find_item:
-        print(f'{find_item} found at position {mid_point+1}')
-        break
-    elif find_item > items[mid_point]:
-        left_pointer = mid_point + 1
-    else:
-        right_pointer = mid_point - 1
-else:
-    print('Find item is not present in list of items')
+def binary_search(nums, target):
+    left_pointer = 0
+    right_pointer = len(nums)
+    while left_pointer <= right_pointer:
+        mid_point = (left_pointer+right_pointer)//2
+        if nums[mid_point] == target:
+            return mid_point
+        elif target > nums[mid_point]:
+            left_pointer = mid_point + 1
+        else:
+            right_pointer = mid_point - 1
+    return -1
+        
+binary_search([1, 3, 5, 7, 9, 11], 7) # Output: 3
+binary_search([2, 4, 6, 8, 10], 5) #Output: -1
