@@ -37,3 +37,4 @@ https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Q
   15. Implement binary search dynamic programing  (algorithms/binary_search.py)
   16. Implement linear search dynamic programming (algorithms/linear_search.py)
   17. sort elements in ascending order using quicksort algorithm (algorithms/quicksort.py)
+  18. Valid mountain array(algorithm/valid_mountain_array.py)
