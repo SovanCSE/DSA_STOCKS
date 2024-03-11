@@ -6,7 +6,6 @@
 ## Short notes -
 ##  Length of the array should consist at least 4 elements
 ##  Checking if array of element intially in creasing and followed by decreasing order
-##   O(N) - Use hash set to store and compare duplicate to find first duplicate element
 ## Example: Input: [0,2,3,4,5,2,1] Ouput: True
 ## Example: Input: [2, 1, 3] Output: False
 ##################################################################################
