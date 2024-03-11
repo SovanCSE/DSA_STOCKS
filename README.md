@@ -38,3 +38,4 @@ https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Q
   16. Implement linear search dynamic programming (algorithms/linear_search.py)
   17. sort elements in ascending order using quicksort algorithm (algorithms/quicksort.py)
   18. Valid mountain array(algorithm/valid_mountain_array.py)
+  19. Count no. of boats to save people(algorithm/no_of_boats_to_save_people.py)
